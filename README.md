@@ -1,4 +1,5 @@
 # Dice_game
 
+Simple Dice_game
 
-[a link](https://sharathshanmukh.github.io/Dice_game/dicee.html)
+[LINK](https://sharathshanmukh.github.io/Dice_game/dicee.html)
